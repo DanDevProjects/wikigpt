@@ -1,6 +1,6 @@
 # WikiGPT
 [![Release](https://img.shields.io/github/v/release/DanDevProjects/wikigpt?style=flat-square)](https://github.com/DanDevProjects/Internet_Explorative/releases)
-[![Downloads](https://img.shields.io/github/downloads/DanDevProjects/wikigpt/total?style=flat-square)](https://github.com/DanDevProjects/Internet_Explorative/releases)
+[![Downloads](https://img.shields.io/github/downloads/DanDevProjects/wikigpt/total?style=flat-square)](https://github.com/DanDevProjects/wikigpt/releases)
 [![Stars](https://img.shields.io/github/stars/DanDevProjects/wikigpt?style=flat-square)](https://github.com/DanDevProjects/Internet_Explorative/stargazers)
 [![License](https://img.shields.io/github/license/DanDevProjects/wikigpt?style=flat-square)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.14%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
