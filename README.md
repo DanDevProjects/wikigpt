@@ -1,4 +1,6 @@
-# WikiGPT
+# WikiGPT 
+<img src="icon.png" alt="Project Icon" width="60" height="60" align="right">
+
 [![Release](https://img.shields.io/github/v/release/DanDevProjects/wikigpt?style=flat-square)](https://github.com/DanDevProjects/Internet_Explorative/releases)
 [![Stars](https://img.shields.io/github/stars/DanDevProjects/wikigpt?style=flat-square)](https://github.com/DanDevProjects/Internet_Explorative/stargazers)
 [![License](https://img.shields.io/github/license/DanDevProjects/wikigpt?style=flat-square)](LICENSE)
