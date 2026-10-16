@@ -1,0 +1,7 @@
+Before you proceed to installing WikiGPT, here are some things you must know before use:
+
+-After restarting, starting up or anything, make sure you run the export command (reminds you when the API key is not found.).
+
+-Get your free API key at aistudio.google.com. Log into your Google Account, go to the API section and click '93Create API key.' Once created, copy the key and run the export command with 'YOUR-API-KEY' replaced with your actual API key.
+
+-To run WikiGPT, you can simply run 'wikigpt' in your terminal and start chatting. To exit, type exit in the user input and it will jump back to your normal bash terminal.
