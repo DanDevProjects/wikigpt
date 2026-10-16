@@ -83,7 +83,7 @@ Support for Windows more different than macOS and Linux. You will need to instal
 
 ## Commands
 
-- exit or quit: Quit the command\
+- exit or quit: Quit the command
 - /history: list the previous messages and responses
 - /help: list commands
 - /clear: clear history
